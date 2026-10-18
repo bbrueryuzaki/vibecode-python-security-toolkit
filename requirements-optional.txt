@@ -1,0 +1,2 @@
+# zxcvbn is an optional enhancement for pattern-aware password analysis.
+zxcvbn==4.5.0

@@ -1,0 +1,3 @@
+Rider–Waite–Smith tarot images by Pamela Colman Smith, directed by Arthur Edward Waite, originally published in 1909.
+This 720px scan set is from the public-domain deck collection at https://github.com/mixvlad/TarotCards (source: Steve-P.org Tarot Collection).
+The repository identifies the original deck images as public domain. Resized PNG copies are bundled here for offline use.

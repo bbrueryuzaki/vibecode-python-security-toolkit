@@ -1,4 +1,6 @@
-# Python Security Toolkit
+# Vibecode Python Security Toolkit
+
+Full vibecoded with Codex.
 
 A desktop security toolkit built with Python and Tkinter. It runs locally and uses only Python's standard library for its core features. `zxcvbn` is optional and adds pattern-aware password analysis.
 
